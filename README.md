@@ -26,5 +26,5 @@ Kaggle Titanic dataset containing passenger details like age, gender, class, and
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nipun-bhal/titanic-survival-prediction.git
+git clone https://github.com/NipunBhal/titanic-survival-prediction.git
 cd titanic-survival-prediction
